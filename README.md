@@ -10,13 +10,15 @@
 
 <p align="center">
   <a href="https://khosmolabs.com.br/">
-    <img alt="Site" src="https://img.shields.io/badge/Site-Khosmo%20Labs-0A66C2?style=for-the-badge">
+    <img alt="Site Profissional" src="https://img.shields.io/badge/Site%20Profissional-0A66C2?style=for-the-badge">
   </a>
+  &nbsp;
   <a href="https://br.linkedin.com/in/andr%C3%A9-gondim-72a8a4153">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-André%20Gondim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/degondim">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-degondim-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -69,30 +71,9 @@ Busco desenvolver sistemas claros, úteis e orientados a resultado, com atençã
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## 📌 Projetos em destaque
-
-### Escola Amigos do Rei
-
-Sistema web para gestão escolar, portal administrativo, cobranças, alunos, responsáveis e integração com serviços externos.
-
-### Khosmo Labs
-
-Projeto voltado para desenvolvimento de sistemas, automações, dashboards e soluções digitais personalizadas.
-
-### Automações Python
-
-Scripts e ferramentas para análise de dados, organização de processos, geração de relatórios e integração entre sistemas.
-
 ## 🎯 Minha missão
 
 Construir soluções digitais que reduzem trabalho manual, aumentam a confiabilidade das informações e transformam processos reais em sistemas eficientes, escaláveis e orientados a resultado.
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeGondim&show_icons=true&theme=github_dark&hide_border=true">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeGondim&layout=compact&theme=github_dark&hide_border=true">
-</p>
 
 ---
 
